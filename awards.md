@@ -8,7 +8,7 @@ title: Awards
 
 ## Scholarships
 
-- Dec 2024：**"Shuiyou" First-Class Scholarship** (8,000 RMB), awarded to only 4 recipients across the entire university.
+- Dec 2024：**"Shuiyou" First-Class Scholarship** (8,000 RMB), awarded to only 13 recipients across the entire university.
 - Oct 2023：**University-Level Third-Class Scholarship** (1,000 RMB)
 
 ## Competitions

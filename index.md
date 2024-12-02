@@ -4,7 +4,7 @@ layout: page
 
 # About Me
 
-<img src="https://Andrew0425.github.io/profile.png" class="floatpic">
+<img src="https://Andrew0425.github.io/images/Zixuan.jpg" class="floatpic">
 
 Here is **Zixuan Jiang (Andrew, 蒋梓轩)**.<br>
 

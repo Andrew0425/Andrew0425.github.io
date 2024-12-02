@@ -13,12 +13,12 @@ owner:
   cv: https://Andrew0425.github.io/file/cv.pdf
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
   twitter: 
-  github: https://github.com/Andrew0425
+  github: Andrew0425
   linkedin: #
   scholar: #
   bilibili: #
-  researchgate: https://www.researchgate.net/profile/Hanlin-Cai
-  zhihu: https://www.zhihu.com/people/chlire
+  researchgate: https://www.researchgate.net/profile/Zixuan-Jiang-8
+  zhihu: https://www.zhihu.com/people/mu-yuan-88-15
   # facebook: caihanlin2002
   # instagram: lancecai2002
   # lastfm:
@@ -28,7 +28,7 @@ owner:
 
 # Analytics and webmaster tools stuff goes here
 # https://search.google.com/search-console/ownership
-google_verify: "SkiyuGpJOKT74vv5GmXLvYXXDkXy4v8VWPtbelYz3Hs"
+google_verify: #"SkiyuGpJOKT74vv5GmXLvYXXDkXy4v8VWPtbelYz3Hs"
 
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
 # bing_verify: ""

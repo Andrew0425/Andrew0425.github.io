@@ -4,8 +4,6 @@ permalink: /projects/index.html
 title: Projects
 ---
 
-> (†: equal contribution, ~: corresponding author)
-
 ## Conference Paper
 
   <br>

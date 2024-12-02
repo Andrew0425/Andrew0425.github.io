@@ -6,43 +6,16 @@ title: Hobbies
 
 # Hobbies
 
-## Swimming & Surfing
+## Music ~ Piano
 
-<div class="third">
-<img src="/images/swimming2.JPG">
-<img src="/images/swimming.JPG">
-<img src="/images/surfing1.JPG">
-</div>
-<br>Swimming removes my worries, refreshes my body, and brings me courage to address any challenges. I extremely enjoy the feeling of being immersed in the water. Besides, I am a member of the Swimming Team at Fuzhou University, where I meet many sincere friends. I have reached **China National Second-level athlete Standard** in 50m breaststroke and won **Five Gold Medals** during my 15-year swimming career. Recently, I am also keen on surfing.
+<br>Music, particularly playing the piano, offers numerous benefits that enhance both mental and emotional well-being. It fosters creativity, improves cognitive function, and strengthens memory by requiring the coordination of both hands and the brain. The act of playing the piano can serve as a powerful form of stress relief, providing an emotional outlet and promoting relaxation. It also helps to cultivate discipline and patience, as mastering the instrument involves consistent practice and dedication. Moreover, music has been shown to improve mood, reduce anxiety, and enhance emotional expression, making it an invaluable tool for personal growth and life satisfaction. In addition, the ability to play an instrument can bring joy to others, creating a sense of connection and community. Whether as a form of self-expression or as a way to unwind, playing the piano contributes to a balanced and fulfilling life.
+## Theater Group
 
-## Workshop
-
-<div class="third">
-<img src="/images/prelection1.JPG">
-<img src="/images/speech1.JPG">
-<img src="/images/speech3.JPG">
-</div>
-<br>There must be something truly magical about standing on stage to give a fantastic speech, which considerably lifts my spirits and energizes my entire body. If you desire to master a specific knowledge in depth, just give a prelection. If you can explain to others for complete understanding, you are already an expert. I really enjoy the accomplishment of imparting my knowledge to others, so what I strive for is to be **a student's favorite professor** at the [best universities in my hometown].
-
+<br>Joining a theater group not only enhances acting skills but also significantly enriches one's life experience. Through rehearsals and performances, we learn how to collaborate and communicate effectively within a team, and how to better understand human nature and emotions through different roles. This immersive form of expression boosts self-confidence, improves public speaking abilities, and provides an excellent outlet for stress relief and relaxation. The emotional investment and creative process in theater not only reflect an artistic pursuit but also contribute to personal expression and self-awareness. More importantly, a theater group fosters a community full of creativity and interaction, allowing us to meet like-minded individuals, expand our perspectives, and cultivate teamwork and a sense of collective responsibility. Whether as an audience member or an actor, participating in a theater group makes life more vibrant and brings greater enthusiasm and energy into our daily experiences, while deepening our understanding of society and interpersonal relationships.
 [best universities in my hometown]:https://www.fzu.edu.cn/
 
 
-## Past Hobbies
-
-I previously enjoyed long-distance running, [vlog making](https://space.bilibili.com/594030035), and computer game developing/playing. However, I have no time to do any of these things recently.
-
-## My Cat
-
-She is my love. Her name is Qbao (Q宝).
-
-<div>
-<img src="/images/cat.JPG">
-</div>
-<br>
-
-## Chat with me
-
-**Jan 2023:** I have set up the [online-coffee-time](https://calendly.com/lancecai/meet-with-lance) (Inspired by [Shangzhe Wu](https://elliottwu.com/)). Welcome to chat with me!
+## Badminton & Football
 
 <!-- Calendly inline widget begin -->
 

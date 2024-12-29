@@ -31,4 +31,8 @@ Long Chen, Shuxin Lin, Jinsong Sun, Shuo Hou, Fanwei Li, **Zixuan Jiang**, Shida
 [Software Copyright](https://Andrew0425.github.io/file/SC1.pdf)<br>
 [Developer Certification](https://Andrew0425.github.io/file/DC1.pdf)
 
+- Exercise with Attention: A scoring model for the Eight Section Brocade and Five Animal Play movements based on the Transformer architecture<br>
+ZeZhong Qian, **Zixuan Jiang**, Xintong Xiao
+
+
   <br>
